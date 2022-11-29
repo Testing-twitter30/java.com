@@ -4,3 +4,4 @@ please do not hard code
 make use of variables and dynamic variables 
 author; Abi
 this is a front end application
+# bugs remove 
